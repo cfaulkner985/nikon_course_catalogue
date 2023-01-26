@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/cfaulkner985/synergylearning_html/blob/master/assets/images/logo.png">
+<img src="https://github.com/cfaulkner985/synergylearning_html/blob/main/assets/images/logo.png?raw=true">
 </p>
 
 # ReadMe
