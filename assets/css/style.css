@@ -1,0 +1,108 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+/***** NAV BAR & LOGO *****/
+#logo {
+    width: 100px;
+}
+
+.navbar-nav li a {
+    color: black;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+.navbar-nav > .login {
+    padding-left:500px;
+}
+
+.login-button {
+    display: block;
+    width: 100%; 
+    background-color: yellow;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+
+/***** LOGIN *****/
+.login-top {
+    padding-top: 50px;
+}
+
+#line2::before{
+    content: "\a";
+    white-space: pre;
+}
+
+#line2 {
+    font-size: x-large;
+}
+
+.lost-password {
+    margin-left: 300px;
+}
+
+.learning-image {
+    width: 1000px;
+    height: 400px;
+    object-fit: cover;
+  }
+
+/***** COURSE CATALOGUE *****/
+.course-header {
+    padding-top: 100px;
+    border-bottom: 3px solid yellow;
+    width: 100%;
+    display: block;
+}
+
+.card-title {
+    padding-top: 70px;
+}
+
+.card-img-top {
+    width: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.card:hover {
+    background-color: yellow !important;
+ }
+
+/***** VIDEO *****/
+.video-top {
+    padding-top: 100px;
+}
+
+.video-placeholder {
+    padding-bottom: 10px;
+    box-shadow: -60px -16px yellow;
+}
+
+.video-header {
+    margin-left: 220px;
+}
+
+.video-text {
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+/***** FOOTER *****/
+.footer-top {
+    padding-top: 100px;
+    width: 100%;
+    display: block;
+}
+
+.footer-button {
+    background-color: yellow;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+
