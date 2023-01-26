@@ -12,12 +12,16 @@ body {
 }
 
 .nav-item:hover {
-    text-decoration: underline;
-    text-decoration-color: yellow;
+    border-bottom: 2px solid yellow;
+    bottom: -5px;
+    content: " ";
+    left: 0;
+    position: absolute;
+    right: 0;
 }
 
 .navbar-nav > .login {
-    padding-left:500px;
+    margin-left:500px;
 }
 
 .login-button {
