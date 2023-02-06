@@ -4,7 +4,7 @@
 
 # ReadMe
 
-This is a sigle page of  website for Synergy Learing which is based on the company Nikon
+This is the course catalogue page of Nikon's website
 
 ## Technologies Used
 *	I have used HTML and CSS programming languages.
